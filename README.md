@@ -1,8 +1,8 @@
-# Binance Futures Trading Bot
+# 🤖 Binance Futures Trading Bot
 
 This is a Python-based trading bot that allows you to place market, limit, and stop-limit orders on the Binance Futures Testnet.
 
-## Features
+## ✨ Features
 
 - Place Market Orders (Buy/Sell)
 - Place Limit Orders (Buy/Sell)
@@ -10,7 +10,7 @@ This is a Python-based trading bot that allows you to place market, limit, and s
 - Interactive Command-Line Interface (CLI)
 - Robust Logging
 
-## Getting Started
+## 🚀 Getting Started
 
 ### Prerequisites
 
@@ -30,14 +30,14 @@ This is a Python-based trading bot that allows you to place market, limit, and s
    pip install -r requirements.txt
    ```
 
-## Configuration
+## ⚙️ Configuration
 
 1. Open the `config.py` file.
 2. Replace `"YOUR_API_KEY"` and `"YOUR_API_SECRET"` with your actual Binance Testnet API key and secret.
 
    **Note:** You can generate an API key and secret on the [Binance Testnet website](https://testnet.binancefuture.com).
 
-## Usage
+## ▶️ Usage
 
 To start the trading bot, run the following command:
 
@@ -57,10 +57,10 @@ Select an option:
 
 Follow the on-screen prompts to place your desired order.
 
-## Logging
+## 📝 Logging
 
 All trading activities, API requests, and errors are logged in the `trading_bot.log` file. This file is useful for debugging and tracking the bot's performance.
 
-## Disclaimer
+## ⚠️ Disclaimer
 
 This trading bot is for educational purposes only. Trading cryptocurrencies involves significant risk. Use this bot at your own risk. The author is not responsible for any financial losses.
