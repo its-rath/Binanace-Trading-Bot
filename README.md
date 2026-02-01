@@ -61,6 +61,13 @@ Follow the on-screen prompts to place your desired order.
 
 All trading activities, API requests, and errors are logged in the `trading_bot.log` file. This file is useful for debugging and tracking the bot's performance.
 
+## 💡 Assumptions
+
+- The user has a valid Binance Futures **Testnet** account.
+- `API_KEY` and `API_SECRET` in `config.py` are for the **Testnet**, not the Mainnet.
+- The user allows the bot to place orders on their behalf.
+- The internet connection is stable for API calls.
+
 ## ⚠️ Disclaimer
 
 This trading bot is for educational purposes only. Trading cryptocurrencies involves significant risk. Use this bot at your own risk. The author is not responsible for any financial losses.
